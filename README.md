@@ -11,7 +11,7 @@ let's try it
     code?
     sembrerebbe di si
 wow
-! [paguro] (https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
+![paguro](https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
 
 [ ]
 
