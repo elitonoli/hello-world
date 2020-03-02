@@ -9,7 +9,7 @@ sottotitolo
 ~~così le cose che non vanno lette~~
 
 `il barratto è stato fatto così
-\~\~barrato\~\~`
+~~barrato~~`
 
 spesa
 -----
@@ -26,5 +26,5 @@ PRO | CONTRO
 bro | centro
 
 
-![paguro] (https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
+![paguro](https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
 
