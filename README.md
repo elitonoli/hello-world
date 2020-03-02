@@ -29,3 +29,5 @@ C'è un paguro!
 
 ![paguro](https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
 
+:nerd_face:
+
