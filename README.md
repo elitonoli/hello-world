@@ -1,21 +1,30 @@
-# hello-world
+TITOLO
+======
 
-let's try it
+sottotitolo
+-----------
 
-*ecco il corsivo*
+È facile scrivere sia in **bold** che in *italic*. C'è anche la ***combo***
 
-**simpatico grassetto**
+~~così le cose che non vanno lette~~
 
-~~non leggere qui~~
+`il barratto è stato fatto così
+\~\~barrato\~\~`
 
-    code?
-    sembrerebbe di si
-wow
+spesa
+-----
 
-![paguro](https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
+1. pane
+2. pomodori
+3. spinaci
 
-[ ]
+pro e contro
+------------
 
-[X]
+PRO | CONTRO
+--- | ------
+bro | centro
 
-questo no 
+
+![paguro] (https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
+
