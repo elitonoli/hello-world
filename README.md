@@ -8,7 +8,7 @@ sottotitolo
 
 ~~così le cose che non vanno lette~~
 
-`il barratto è stato fatto così
+`il barrato è stato fatto così
 ~~barrato~~`
 
 spesa
