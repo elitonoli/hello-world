@@ -15,8 +15,9 @@ spesa
 -----
 
 1. pane
-2. pomodori
+2. pomodorini
 3. spinaci
+4. tomino
 
 pro e contro
 ------------
@@ -30,4 +31,3 @@ C'è un paguro!
 ![paguro](https://www.ideegreen.it/wp-content/uploads/2018/03/paguro-bernardo-3.jpg)
 
 :nerd_face:
-
