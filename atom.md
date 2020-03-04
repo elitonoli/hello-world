@@ -9,11 +9,17 @@ MUST HAVE
 				1. form wash e form cure (set)
 				2.
 				- due recipienti per il risciacquo (coperchio ermetico, compatibili con alcool isoproprilico)
+				
 				- cestello per il risciacquo (da inserire nei recipienti)
+				
 				- flacone squeezy con beccuccio piegato
+				
 				- raschietto/spatola
+				
 				- pinza becchi lunghi punte piegate
+				
 				- tronchese di precisione
+				
 				- UV oven (polimerizzazione)
 
 4. guanti usa e getta in nitrile
