@@ -8,6 +8,7 @@ MUST HAVE
 3. finish kit					
 				1. form wash e form cure (set)
 				2.
+				
 				- due recipienti per il risciacquo (coperchio ermetico, compatibili con alcool isoproprilico)
 				
 				- cestello per il risciacquo (da inserire nei recipienti)
