@@ -5,7 +5,8 @@ MUST HAVE
 ---------
 1. vassoio
 2. alcool isoproprilico
-3. finish kit					
+3. finish kit			
+
 				1. form wash e form cure (set)
 				
 				2.
